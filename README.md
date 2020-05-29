@@ -5,6 +5,37 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 # Truffle Version
 Truffle v5.1.27 (core: 5.1.27)
 
+# Solidity Version
+Solidity v0.5.16 (solc-js)
+
+# Node Version
+Node v10.19.0
+
+# Web3 Version
+Web3.js v1.2.1
+
+# Contract Address(Rinkeby)
+0x719068711719570A6235dc613F411D0743625a7d
+
+# Project Write-Up-UML
+# Activity Diagram
+
+![](images/activity-diagram.png)
+
+# Sequence Diagram
+
+![](images/sequence-diagram.png)
+
+# State Diagram
+
+![](images/state-diagram.png)
+
+# Class Diagram
+
+![](images/class-diagram.png)
+
+# Project Write-up-Libraries
+I used one Library called Roles. It made very easy to maintain different roles in supplychain(FarmerRole,DistributorRole,ConsumerRole,RetailerRole).
 
 The DApp User Interface when running should look like...
 
